@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508923988043",
+    "project_id": "bharatoutletstore-15624",
+    "storage_bucket": "bharatoutletstore-15624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508923988043:android:df9561fda750b7b48e65ce",
+        "android_client_info": {
+          "package_name": "com.bharatoutlet.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIUvG9OSfbPT6nibVYU-edxtlrITxEVM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
